@@ -49,7 +49,7 @@ This work provides a quantitative **conventional modeling baseline** for upcomin
 ---
 
 ## 📄 Technical Report
-Read the full report: [`Rocky_2026_Convective_Drying_Kinetics_Baseline.pdf`](./Rocky_2026_Convective_Drying_Kinetics_Baseline.pdf)
+Read the full report: [`Convective_Food_Drying_Kinetics_Python_Benchmark_Rocky.pdf`](./Convective_Food_Drying_Kinetics_Python_Benchmark_Rocky.pdf)
 
 ---
 

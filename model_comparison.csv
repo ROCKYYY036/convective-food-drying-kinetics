@@ -1,0 +1,7 @@
+Model,RMSE,MAE ,R2,
+Newton,0.01887559,0.016065522,0.995581852,
+Page,0.017646077,0.015951064,0.996138682,
+Henderson-Pabis,0.01882746,0.016502504,0.995604354,
+,,,,RMSE= Root Mean Square Error
+,,,,MAE=Mean Absoulte Error
+,,,,R2=Measure goodness of fit
